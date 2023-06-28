@@ -8,7 +8,7 @@ import 'package:zigy_demo/utils/colors.dart';
 import 'package:zigy_demo/utils/constants.dart';
 import 'package:zigy_demo/utils/utils.dart';
 
-/// Created by Patrice Mulindi email(mulindipatrice00@gmail.com) on 31.11.2023.
+/// Created by Patrice Mulindi email(mulindipatrice00@gmail.com) on 28.06.2023.
 
 class Dashboard extends StatefulWidget {
   const Dashboard({
